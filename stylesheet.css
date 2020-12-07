@@ -1,0 +1,10 @@
+body {
+   background-color: aquamarine; 
+}
+
+ #body-div {
+  background-color: cornsilk;
+  text-align:center;
+}
+
+/* Create a page that is stylistically appealing. Does not need to be super complicated. But flexible enough that I can add more to it in the future. */
